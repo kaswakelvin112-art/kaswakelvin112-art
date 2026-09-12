@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaswa Kelvin</h1>
+<h1 align="center">Hi , I'm Kaswa Kelvin</h1>
 <h3 align="center">Full-Stack Developer | BSSE Student @ Makerere University | Kampala, Uganda</h3>
 
 <p align="center">
@@ -50,12 +50,10 @@
 
 | Project | Description |
 |---|---|
-| 🎓 **[Laravel Education Platform](#)** | Quiz module + live discussion forum with real-time WebSocket broadcasting |
-| 💬 **[JavaFX Smart Forum](#)** | Offline-first desktop forum app with SQLite sync |
-| ⚛️ **[Atomic Life](#)** | Habit-scheduling app that auto-generates schedules from what you want to add to your life |
-| 📝 **[Offline-First Notes App](#)** | Vite + React + Tailwind, IndexedDB for offline storage, Supabase for cloud sync |
-
-> Replace the `#` links above with your actual repo URLs.
+| 😇 **[Personal Management Tool](kaswakelvin112-art/personal-management-tool)** | Manage tasks, Get notifications and motivation to continue |
+| 🎓 **[JavaFX Smart Forum](kaswakelvin112-art/G-25_Smart_Discussion_Forum)** | Offline-first desktop forum app with SQLite sync |
+| ⚛️ **[Atomic Life](kaswakelvin112-art/Atomic-Life)** | Habit-scheduling app that auto-generates schedules from what you want to add to your life |
+| 📝 **[Offline-First Notes App](kaswakelvin112-art/offline-notes)** | Vite + React + Tailwind, IndexedDB for offline storage, Supabase for cloud sync |
 
 ---
 
